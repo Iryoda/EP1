@@ -1,0 +1,16 @@
+#ifndef DATAGRAMA_
+#define DATAGRAMA_
+
+
+class Datagrama
+{
+    public:
+        Datagrama();
+        virtual ~Datagrama();
+
+    protected:
+
+    private:
+};
+
+#endif // DATAGRAMA_
